@@ -95,6 +95,7 @@
   },
   "defaultProject": "jhipster-application",
   "cli": {
+    "analytics": "223b8e19-1c2a-4800-ba16-d2eb9347b9b5",
     "packageManager": "npm"
   }
 }
